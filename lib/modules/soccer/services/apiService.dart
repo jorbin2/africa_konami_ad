@@ -49,8 +49,7 @@ class Apiservice {
 
 
   Future<SoccerData> getAllMatchs() async {
-    saisonStart="2022-08-06";
-    saisonEnd="2023-06-04";
+
     DateTime dateTime = DateTime.now();
     String YYYY_MM_DD = dateTime.toIso8601String().split('T').first;
     print('date : $YYYY_MM_DD');
