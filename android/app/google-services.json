@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469399275043",
+    "project_id": "africakonamiad",
+    "storage_bucket": "africakonamiad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469399275043:android:15d66a75879983c8e65396",
+        "android_client_info": {
+          "package_name": "com.konami.africa.konamiafricaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469399275043-u7o9auk3rs5dvj3p31rq6lmmubj2mops.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8HddQl2muwj2dcHE8RXlea6gkkLUsyvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469399275043-u7o9auk3rs5dvj3p31rq6lmmubj2mops.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
