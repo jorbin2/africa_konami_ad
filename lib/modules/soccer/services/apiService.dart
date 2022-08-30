@@ -11,8 +11,7 @@ import '../models/modelSaison.dart';
 class Apiservice {
    final apikey='91e5bba0-8fc6-11ec-8a68-596572b37efe';
    late  int saisonId=0;
-   late var saisonStart;
-   late var saisonEnd;
+
 
 
   Apiservice();
